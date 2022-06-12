@@ -1,4 +1,4 @@
-package Page;
+package HaloOglasi.Page;
 
 import HaloOglasi.BaseTest;
 import org.junit.Assert;
